@@ -1,0 +1,176 @@
+
+{
+  "Header": {
+    "title": "Edson Mendoza",
+    "paragraph": "Si se puede imaginar, se puede programar"
+  },
+  "About": {
+    "paragraph": "Soy un programador, con un gusto especial por el área de front-end, me agrada la idea de mejorar la experiencia del usuario. He trabajado en proyectos significativos y tengo experiencia con HTML5, CSS3, JavaScript, Bootstrap y React, entre otras tecnologías, siempre buscando formas de optimizar lo que hago. Me emociona la idea de unirme a un equipo que valore el crecimiento y el aprendizaje continuo. Soy una persona que le gusta ampliar sus conocimientos y enfrentar nuevos desafíos.",
+    "Why": [
+      "Trabajo en Equipo",
+      "Comunicación",
+      "Resolución de Problemas",
+      "Adaptabilidad"
+    ],
+    "Why2": [
+      "Gestión del Tiempo",
+      "Gestión de Proyectos",
+      "Toma de Decisiones"
+    ]
+  },
+  "Gallery": [
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/01-large.jpg",
+      "smallImage": "img/portfolio/01-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/02-large.jpg",
+      "smallImage": "img/portfolio/02-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/03-large.jpg",
+      "smallImage": "img/portfolio/03-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/04-large.jpg",
+      "smallImage": "img/portfolio/04-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/05-large.jpg",
+      "smallImage": "img/portfolio/05-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/06-large.jpg",
+      "smallImage": "img/portfolio/06-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/07-large.jpg",
+      "smallImage": "img/portfolio/07-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/08-large.jpg",
+      "smallImage": "img/portfolio/08-small.jpg"
+    },
+    {
+      "title": "Project Title",
+      "largeImage": "img/portfolio/09-large.jpg",
+      "smallImage": "img/portfolio/09-small.jpg"
+    }
+  ],
+  "Services": [
+    {
+      "icon": "fa fa-mobile",
+      "name": "Desarrollo de Aplicaciones Hibridas",
+      "text": "Tuve la oportunidad de trabajar en un proyecto de desarrollo de aplicaciones híbridas con ionic."
+    },
+    {
+      "icon": "fa fa-code",
+      "name": "Sistema de control escolar",
+      "text": "Desarrollé un sistema local para la creación de títulos y certificados electrónicos."
+    },
+    {
+      "icon": "fa fa-database",
+      "name": "Base de Datos",
+      "text": "He colaborado para la creación y consultas a bases de datos en SQL Server y MongoDB."
+    },
+    {
+      "icon": "fa fa-github-square",
+      "name": "Control de versiones con GitHub.",
+      "text": "Durante mi último empleo utilicé GitHub para el control de versiones de todos los proyectos en los que participé, lo cual me permitió trabajar en equipo de manera eficiente."
+    },
+    {
+      "icon": "fa fa-send",
+      "name": "APIs Rest",
+      "text": "He colaborado para consumir y crear APIs Rest para la comunicación entre aplicaciones y bases de datos en proyectos. Utilizando Node.js y Express para la creación y JavaScript para el consumo."
+    },
+    {
+      "icon": "fa fa-laptop",
+      "name": "Diseño de interfaces",
+      "text": "He creado interfaces de usuario con HTML5, CSS3 y JavaScript, utilizando Bootstrap y React.Siempre buscando la mejor experiencia para el usuario."
+    }
+  ],
+  "Testimonials": [
+    {
+      "img": "img/testimonials/01.png",
+      "text": "\"Legacy: ionic 6: Crear aplicaciones IOS, Android con Angular.\"",
+      "name": "Fernando Herrera"
+    },
+    {
+      "img": "img/testimonials/02.png",
+      "text": "\"Desarrollo Web Completo con HTML5, CSS3, JS AJAX PHP y MySQL.\"",
+      "name": "Juan Pablo De la torre Valdez"
+    },
+    {
+      "img": "img/testimonials/03.png",
+      "text": "\"React: De cero a experto ( Hooks y MERN ).\"",
+      "name": "Fernando Herrera"
+    },
+    {
+      "img": "img/testimonials/04.png",
+      "text": "\"Node.js de cero a experto. Clean Architecture, DDD, WebHooks, WebSockets, Tareas automáticas, Despliegues, TypeScript, Edge, Testing y más.\"",
+      "name": "Fernando Herrera"
+    },
+    {
+      "img": "img/testimonials/05.png",
+      "text": "\"JavaScript Moderno: Guía para dominar el lenguaje. Clases, Propiedades privadas, Vite, ESNext, Node, Npm, Hot Reaload, CRUD, Carga de archivos y más!.\"",
+      "name": "Fernando Herrera"
+    }
+  ],
+  "Team": [
+    {
+      "img": "img/team/01.jpg",
+      "name": "John Doe",
+      "job": "Director"
+    },
+    {
+      "img": "img/team/02.jpg",
+      "name": "Mike Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/03.jpg",
+      "name": "Jane Doe",
+      "job": "Senior Designer"
+    },
+    {
+      "img": "img/team/04.jpg",
+      "name": "Karen Doe",
+      "job": "Project Manager"
+    }
+  ],
+  "Contact": {
+    "address": "Norte 80-A 4204 ",
+    "phone": "+52 5581 80 832 24",
+    "email": "edson.men100@gmail.com"
+  },
+  "Features": [
+    {
+      "icon": "fa brands fa-html5",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa brands fa-css3",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa brands",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    },
+    {
+      "icon": "fa fa-magic",
+      "title": "Lorem ipsum",
+      "text": "Lorem ipsum dolor sit amet placerat facilisis felis mi in tempus eleifend pellentesque natoque etiam."
+    }
+  ]
+}
